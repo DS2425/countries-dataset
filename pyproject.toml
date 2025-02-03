@@ -10,6 +10,7 @@ dependencies = [
     "numpy>=2.2.2",
     "polars[pyarrow]>=1.20.0",
     "pyarrow>=19.0.0",
+    "pypdf2>=3.0.1",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
 ]
