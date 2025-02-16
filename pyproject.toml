@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.0",
+    "mlxtend>=0.23.4",
     "numpy>=2.2.2",
     "polars[pyarrow]>=1.20.0",
     "pyarrow>=19.0.0",
