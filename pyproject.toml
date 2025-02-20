@@ -7,12 +7,15 @@ requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.0",
+    "mlxtend>=0.23.4",
     "numpy>=2.2.2",
     "polars[pyarrow]>=1.20.0",
     "pyarrow>=19.0.0",
     "pypdf2>=3.0.1",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+    "tqdm>=4.67.1",
 ]
 
 [dependency-groups]
